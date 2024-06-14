@@ -15,15 +15,15 @@
    ```sh
    cd GameDevMath
    ```
+   **Note: if you have the following packages you may skip step 4: <i>random, math, matplotlib.pyplot</i>**
 4. Download the required packages by entering the following code:
-  ```sh
+   ```sh
    pip install -r requirements.txt
-  ```
-  **Note: if you have the following packages you may skip step 4: <i>random, math, matplotlib.pyplot</i>**
+   ```
 5. Adjust the code to run the python file that you wish to run:
-  ```sh
-  python [filename].py
-  ```
+   ```sh
+   python [filename].py
+   ```
 ### Method 2: **Direct Download**
 1. Navigate to each python file in GitHub
 2. Click the button in the top right that reads "<i>Download raw file</i>"
