@@ -1,5 +1,5 @@
 import random
-
+random.seed(1)
 def crazy_eights()->int:
     """# This function initializes the game and plays the game to completion. Both the left reel
     # and right reel are spun simultaneously. If a reel lands on the number 8, the big number 8
